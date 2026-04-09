@@ -33,9 +33,9 @@ I love building, learning, and experimenting with new technologies to turn ideas
 
 ## 🔻 Current Focus
 
-- Want to Learn C++
+- Relasing Ash Client
+- Relasing Utility Tools
 - Learning deeper **Offensive Security & Threat Analysis**  
-- Exploring **AI-driven software and automation workflows**  
 
 ---
 
