@@ -1,19 +1,19 @@
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=32&center=false&vCenter=false&width=600&height=50&lines=Hi+there!+I'm+Ash;" alt="Typing SVG"/>
 </div>
-I'm a Multidisciplinary Developer exploring the world of software, games, mods, AI, and cybersecurity.  
-I love building, learning, and experimenting with new technologies to turn ideas into working projects. 🚀
+I am a Developer & Server Administrator. If you want more information about me read down
 
+Im open for Job Offers btw
 
 
 ---
 
 ## 🔻 Areas of Interest
 
--  **Software & Tools:** Game development, automation, Minecraft mods, experimental software, Utility Tools  
--  **Cybersecurity:** Offensive Security concepts, malware behavior analysis, threat research, defensive techniques  
+-  **Software & Tools:** Automation, Minecraft mods, Utility Tools , Clients , Applications
+-  **Cybersecurity:** Offensive Security concepts, Malware behavior analysis, Mhreat research, defensive techniques  
 -  **AI & Automation:** AI-assisted development, rapid prototyping, productivity tools  
--  **Web & Server:** Web projects, server management, Linux environments  
+-  **Server:** Server management, Linux environments , Minecraft Server Management
 
 ---
 
