@@ -1,10 +1,6 @@
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=32&center=false&vCenter=false&width=600&height=50&lines=Hi+there!+I'm+Ash;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=32&center=false&vCenter=false&width=600&height=50&lines=Say+My+Name;" alt="Typing SVG"/>
 </div>
-I am a Developer & Server Administrator. If you want more information about me read down
-
-Im open for Job Offers btw
-
 
 ---
 
@@ -13,7 +9,7 @@ Im open for Job Offers btw
 -  **Software & Tools:** Automation, Minecraft mods, Utility Tools , Clients , Applications
 -  **Cybersecurity:** Offensive Security concepts, Malware behavior analysis, Mhreat research, defensive techniques  
 -  **AI & Automation:** AI-assisted development, rapid prototyping, productivity tools  
--  **Server:** Server management, Linux environments , Minecraft Server Management
+-  **Server:** Server management, Linux environments , Backend
 
 ---
 
@@ -33,21 +29,5 @@ Im open for Job Offers btw
 
 ## 🔻 Current Focus
 
-- Relasing Ash Client
-- Relasing Utility Tools
-- Learning deeper **Offensive Security & Threat Analysis**  
-
----
-
-## 🔻 Fun Fact
-
-I enjoy **coding Minecraft Mods and Other Utility Tools**
-
----
-
-## 🔻 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshtarCommand&theme=dark&date_format=j%20M%5B%20Y%5D" height="180"/>
-</div>
+- Anubis+
 
